@@ -5,7 +5,7 @@
         </div>
         <div class="flex flex-col justify-center">
             <p class="text-lg leading-none uppercase text-[#00074e] font-bold mb-2">Desa Bendungan</p>
-            <p class="text-lg leading-none uppercase text-[#00074e] font-bold ">Kabupaten Bogor</p>
+            <p class="text-lg leading-none uppercase text-[#00074e] font-bold ">Kecamatan Jonggol Kabupaten Bogor</p>
         </div>
         <div class="flex items-center h-full ml-auto pr-20">
             <a class="text-lg text-[#001b85] mx-4 cursor-pointer">Profile Desa</a>
